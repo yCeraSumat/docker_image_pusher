@@ -4,3 +4,4 @@ python:alpine3.19
 ich777/steamcmd:palworld
 hectorqin/reader
 mtphotos/mt-photos:latest
+portainer/portainer-ce
