@@ -8,3 +8,4 @@ portainer/portainer-ce
 6053537/portainer-ce:2.19.5
 lscr.io/linuxserver/qbittorrent
 gotson/komga
+jxxghp/moviepilot
