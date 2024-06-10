@@ -9,3 +9,4 @@ portainer/portainer-ce
 lscr.io/linuxserver/qbittorrent
 gotson/komga
 jxxghp/moviepilot
+easychen/cookiecloud
